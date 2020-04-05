@@ -1,0 +1,15 @@
+
+©%squid:RedundantThrowsDeclarationCheck7"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¹Ïúÿÿÿÿ8ÿİ“í‘.
+†squid:S1192;"cDefine a constant instead of duplicating this literal "com.android.calculator2:id/digit_4" 3 times.(Ş«ï‚üÿÿÿÿ8Ÿ´”í‘.
+esquid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(Öê—Ü8Ÿ´”í‘.
+wsquid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ş×8Ï‚äì‘.
+¤%squid:RedundantThrowsDeclarationCheckB"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Öê—Ü8Ÿ´”í‘.
+esquid:S00112V"FDefine and throw a dedicated exception instead of using a generic one.(øêúĞ8Œ´‡í‘.
+¤%squid:RedundantThrowsDeclarationCheck+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(×˜ÁÇ8ÿİ“í‘.
+¤%squid:RedundantThrowsDeclarationCheckV"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(øêúĞ8Œ´‡í‘.
+vsquid:S11923"SDefine a constant instead of duplicating this literal "Actual value is : " 4 times.(Œ”Äâıÿÿÿÿ8ÿİ“í‘.
+squid:S11921"bDefine a constant instead of duplicating this literal "com.android.calculator2:id/result" 4 times.(ÓÇÌ,8ÿİ“í‘.
+usquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÊ­“øÿÿÿÿ8Ÿ´”í‘.
+|squid:S11920"^Define a constant instead of duplicating this literal "com.android.calculator2:id/eq" 4 times.(¦×‰ä8ÿİ“í‘.
+jsquid:S001127"FDefine and throw a dedicated exception instead of using a generic one.(¹Ïúÿÿÿÿ8ÿİ“í‘.
+esquid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.(×˜ÁÇ8ÿİ“í‘.
